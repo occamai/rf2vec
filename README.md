@@ -10,3 +10,5 @@ RF2Vec is an ongoing research project that tries to capture many important aspec
 * Research all the relevant papers and create a folder in this repo
 * Locate or generate another signal databases (different types of signals) and perform transfer learning experiments 
 * Create a custom signal generation and signal capture rig
+* Check out SDR (Software Defined Radio) projects like this: http://www.hdsdr.de/
+* Check out DIY RF Projects like this: https://spectrum.ieee.org/geek-life/hands-on/track-the-movement-of-the-milky-way-with-this-diy-radio-telescope
