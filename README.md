@@ -16,5 +16,6 @@ RF2Vec is an ongoing research project that tries to capture many important aspec
 # Interesting...
 
 * Using ML to detect humans behind a wall via radio-waves - https://www.technologyreview.com/s/614470/machine-vision-has-learned-to-use-radio-waves-to-see-through-walls-and-in-darkness/?utm_source=newsletters&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement
+* Another paper on ML applied to signals - https://www.academia.edu/31197307/Online_modulation_recognition_of_analog_communication_signals_using_neural_network?auto=download
 
 
