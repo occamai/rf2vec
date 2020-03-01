@@ -24,6 +24,7 @@ RF2Vec is an ongoing research project that tries to capture many important aspec
 * Using ML to detect humans behind a wall via radio-waves - https://www.technologyreview.com/s/614470/machine-vision-has-learned-to-use-radio-waves-to-see-through-walls-and-in-darkness/?utm_source=newsletters&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement
 * Another paper on ML applied to signals - https://www.academia.edu/31197307/Online_modulation_recognition_of_analog_communication_signals_using_neural_network?auto=download
 * SDR (Software Defined Radio) projects like this: http://www.hdsdr.de/
+* SDR GNU Radio: https://www.gnuradio.org/about/
 * Check out DIY RF Projects like this: https://spectrum.ieee.org/geek-life/hands-on/track-the-movement-of-the-milky-way-with-this-diy-radio-telescope
 
 
